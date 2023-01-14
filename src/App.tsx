@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Repo with initial setup
+          Repo with initial setup.
         </p>
         <a
           className="App-link"
